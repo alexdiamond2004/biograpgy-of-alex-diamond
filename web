@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link href="style.css" rel="stylesheet" />
+    <title>Biography of Alex Diamoand</title>
+  </head>
+  <header class="main-header">
+    <h1>ALEX DIAMOND</h1>
+    <nav>
+      <a href="Home">Home</a>
+      <a href="#">About</a>
+      <a href="#">Personal</a>
+    </nav>
+  </header>
+  <div class="container">
+    <div class="space">
+      <img
+        src="alex-img/alex-photo.jpg"
+        alt="image of alex"
+        height="250"
+        width="210"
+      />
+    </div>
+    <div class="one">
+      <p>
+        also known as Nwaozuru Favour is a Nigerian graphics/web developer who
+        has the passion for building beautiful real world websites and new
+        things from scratch.
+      </p>
+
+      <a class="more-info" href="#"> More Information &rarr; </a>
+    </div>
+    <div class="two">
+      <p>
+        He is a full-stack Web developer and designer with a passion for
+        building beautiful things like websites and apps. His is current working
+        under Rich Technogy in Nigeria.
+      </p>
+    </div>
+
+    <footer>
+      <p>Copyright &copy; 2022 All Right Reseved</p>
+    </footer>
+  </div>
+</html>
